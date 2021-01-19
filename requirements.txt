@@ -1,6 +1,10 @@
-scrapy==1.8.0
-scrapyd==1.2.1
+scrapy
+scrapyd
 redis
 requests
-rq
-raven
+scrapyd-client
+scrapy-redis
+scrapy-splash
+pymongo
+mongoengine
+pika
